@@ -79,7 +79,7 @@ section{
     text-decoration: none;
     font-size: 1.1em;
     font-weight: 600;
-    /*we need inline-block for sizes to work !*/
+    /*TODO inline-block for sizes to work !*/
     display: inline-block;
     padding: 0.9375em 2.1875em;
     border-radius: 15px;
@@ -104,7 +104,7 @@ section{
     transition: 0.3s ease;
     
 }
-/*Here I'm starting with the windows of skills*/
+/* the windows of skills*/
 
 .title{
     display: flex;
