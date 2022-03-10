@@ -87,6 +87,10 @@ section{
     transition: 0.6s ease;
     
 }
+a {
+    text-decoration: none;
+    color:rgb(55, 10, 128); ;
+}
 
 .main-btn:hover{
     background-color: rgb(100, 48, 184);
