@@ -1,4 +1,4 @@
 window.addEventListener('scroll', () => {
-     document.querySelector('nav').classList.toggle 
+     document.querySelector('header').classList.toggle 
       ('window_scroll' , window.scrollY > 0)   
 })
